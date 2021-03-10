@@ -7,9 +7,9 @@ Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
 
 - [x] Plot
 - [x] Game Structure
-- [ ] Raw Sketch
+- [x] Raw Sketch
   - [x] Level l
-  - [ ] Level 2
+  - [x] Level 2
   - [x] Level 3   
 - [ ] Level Design
   - [ ] Level l
