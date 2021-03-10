@@ -20,5 +20,5 @@ Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
   - [ ] Level 2
   - [ ] Level 3
 - [ ] Integration
-- [ ] Sound
+- [ ] Sound and SFX
 - [ ] Deploy
