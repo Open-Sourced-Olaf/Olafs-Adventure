@@ -5,12 +5,12 @@ Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
 
 **Tasks**
 
-- [ ] Plot
-- [ ] Game Structure
+- [x] Plot
+- [x] Game Structure
 - [ ] Raw Sketch
-  - [ ] Level l
+  - [x] Level l
   - [ ] Level 2
-  - [ ] Level 3   
+  - [x] Level 3   
 - [ ] Level Design
   - [ ] Level l
   - [ ] Level 2
