@@ -1,8 +1,10 @@
-# Olafs-Adventure
+# Olaf's-Adventure
 Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
 
+---
 ![WIP](https://thumbs.gfycat.com/TintedFemaleFieldspaniel-max-1mb.gif)  ![Olaf](https://media.tenor.com/images/b0cf79786a96df80f3983f593e177dba/tenor.gif)
-
+---
+---
 **Tasks**
 
 - [x] Plot
@@ -22,3 +24,4 @@ Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
 - [ ] Integration
 - [ ] Sound and SFX
 - [ ] Deploy
+---
