@@ -1,7 +1,259 @@
 fileFormatVersion: 2
 guid: 4eefca8af39bd3941b0d29b5c1e05115
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6695950386315148514
+    second: BG_0
+  - first:
+      213: -7917263021958980417
+    second: BG_1
+  - first:
+      213: 8964642436447761022
+    second: BG_2
+  - first:
+      213: 6519570804262606229
+    second: BG_3
+  - first:
+      213: -8104493745418022295
+    second: BG_4
+  - first:
+      213: -6463101804311913191
+    second: BG_5
+  - first:
+      213: 7812777667896900288
+    second: BG_6
+  - first:
+      213: -264587695202202668
+    second: BG_7
+  - first:
+      213: -2879510788011391020
+    second: BG_8
+  - first:
+      213: 5447558009166152240
+    second: BG_9
+  - first:
+      213: 6422419594550728855
+    second: BG_10
+  - first:
+      213: -7385776569332153420
+    second: BG_11
+  - first:
+      213: 2527588820394069071
+    second: BG_12
+  - first:
+      213: 6371845390511741586
+    second: BG_13
+  - first:
+      213: 8107505709338696647
+    second: BG_14
+  - first:
+      213: 7082303284463060927
+    second: BG_15
+  - first:
+      213: -2171129802059641146
+    second: BG_16
+  - first:
+      213: 2358226563908563109
+    second: BG_17
+  - first:
+      213: 1187702653642957489
+    second: BG_18
+  - first:
+      213: 4825562034882962931
+    second: BG_19
+  - first:
+      213: 2267878062517288915
+    second: BG_20
+  - first:
+      213: -7194093205335294032
+    second: BG_21
+  - first:
+      213: -2788866541186154596
+    second: BG_22
+  - first:
+      213: -6594030959840146097
+    second: BG_23
+  - first:
+      213: 3189678575736559124
+    second: BG_24
+  - first:
+      213: 7304867746748467151
+    second: BG_25
+  - first:
+      213: -4670427132370843008
+    second: BG_26
+  - first:
+      213: 6588576001417425642
+    second: BG_27
+  - first:
+      213: 4005367905513565643
+    second: BG_28
+  - first:
+      213: 1374689454880617396
+    second: BG_29
+  - first:
+      213: 4177102259061885548
+    second: BG_30
+  - first:
+      213: -6274234924861696939
+    second: BG_31
+  - first:
+      213: 3361502019388661457
+    second: BG_32
+  - first:
+      213: -627434574450729368
+    second: BG_33
+  - first:
+      213: -3889872593134810651
+    second: BG_34
+  - first:
+      213: -236214947324224325
+    second: BG_35
+  - first:
+      213: -2950256814938047322
+    second: BG_36
+  - first:
+      213: 3851963956742915785
+    second: BG_37
+  - first:
+      213: -3236077115892026786
+    second: BG_38
+  - first:
+      213: 4795817819917114317
+    second: BG_39
+  - first:
+      213: -94283098187776993
+    second: BG_40
+  - first:
+      213: -423939619311406345
+    second: BG_41
+  - first:
+      213: 6374642239172528793
+    second: BG_42
+  - first:
+      213: 2561350796763873610
+    second: BG_43
+  - first:
+      213: 500893121924260194
+    second: BG_44
+  - first:
+      213: 8614609463878916105
+    second: BG_45
+  - first:
+      213: 9058402405932176314
+    second: BG_46
+  - first:
+      213: 7895624852018821607
+    second: BG_47
+  - first:
+      213: 4172490916041107923
+    second: BG_48
+  - first:
+      213: 1053696444596491104
+    second: BG_49
+  - first:
+      213: -4026613056159277794
+    second: BG_50
+  - first:
+      213: -4175347880165893926
+    second: BG_51
+  - first:
+      213: 3784878199718889022
+    second: BG_52
+  - first:
+      213: -7019318745721238663
+    second: BG_53
+  - first:
+      213: -3038861938567234657
+    second: BG_54
+  - first:
+      213: 822432074210001817
+    second: BG_55
+  - first:
+      213: 5140635873232250796
+    second: BG_56
+  - first:
+      213: 5925522841894506724
+    second: BG_57
+  - first:
+      213: 606919613001856718
+    second: BG_58
+  - first:
+      213: 8337889474793406267
+    second: BG_59
+  - first:
+      213: 8877240931960041213
+    second: BG_60
+  - first:
+      213: -6332365189187808533
+    second: BG_61
+  - first:
+      213: 3843854468399271399
+    second: BG_62
+  - first:
+      213: -2203710060912426201
+    second: BG_63
+  - first:
+      213: 8634011545173567399
+    second: BG_64
+  - first:
+      213: 3452510342839710913
+    second: BG_65
+  - first:
+      213: 4527603145527311555
+    second: BG_66
+  - first:
+      213: 6800614602153691456
+    second: BG_67
+  - first:
+      213: -6198938524571725120
+    second: BG_68
+  - first:
+      213: -8382164280629570460
+    second: BG_69
+  - first:
+      213: -2551392034049695266
+    second: BG_70
+  - first:
+      213: -3145180868710942085
+    second: BG_71
+  - first:
+      213: 613831852246090291
+    second: BG_72
+  - first:
+      213: -1521672523650461847
+    second: BG_73
+  - first:
+      213: -8231278015264613232
+    second: BG_74
+  - first:
+      213: -8068076203955927348
+    second: BG_75
+  - first:
+      213: -4878408796578297079
+    second: BG_76
+  - first:
+      213: -6624618312347518485
+    second: BG_77
+  - first:
+      213: 1690675741938976250
+    second: BG_78
+  - first:
+      213: 3423069944965709412
+    second: BG_79
+  - first:
+      213: 4890795502509320045
+    second: BG_80
+  - first:
+      213: 2240088911934019303
+    second: BG_81
+  - first:
+      213: 6183781603029824096
+    second: BG_82
+  - first:
+      213: -1322317647928253396
+    second: BG_83
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +293,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +327,42 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cb0ea9943313a0800000000000000
+      internalID: -6695950386315148514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
