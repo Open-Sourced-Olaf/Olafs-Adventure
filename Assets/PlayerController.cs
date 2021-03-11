@@ -2,32 +2,49 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
-{
-    public Rigidbody2D rb;
+public class PlayerController : MonoBehaviour {
 
-    // Start is called before the first frame update
-    void Start()
-    {
+    public float moveSpeed =10;
+    public int jumpHeight = 1250;
+    private bool facingRight = false;
+    private float moveX;
 
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.A))
-        {
-            rb.velocity = new Vector2(-5, rb.velocity.y);
-            transform.localScale = new Vector2(1, transform.localScale.y);
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            rb.velocity = new Vector2(5, rb.velocity.y);
-            transform.localScale = new Vector2(-1, transform.localScale.y);
-        }
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            rb.velocity = new Vector2(rb.velocity.x, 10);
-        }
+       PlayerMove();
     }
+
+    void PlayerMove(){
+
+        moveX=Input.GetAxis("Horizontal");
+
+        if(Input.GetButtonDown("Jump")){
+            Jump();
+        }
+
+        if(moveX<0.0f && facingRight==false)
+        {
+            flipPlayer();
+        }
+        else if(moveX>0.0f && facingRight==true)
+        {
+            flipPlayer();
+        }
+
+        gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2 (moveX * moveSpeed, gameObject.GetComponent<Rigidbody2D>().velocity.y); 
+
+    }
+
+void Jump(){
+    GetComponent<Rigidbody2D>().AddForce (Vector2.up * jumpHeight);
 }
+
+void flipPlayer(){
+facingRight=!facingRight;
+Vector2 localScale = gameObject.transform.localScale;
+localScale.x *= -1;
+transform.localScale= localScale;
+}
+
+}
+
