@@ -7,26 +7,33 @@ public class PlayerController : MonoBehaviour {
 
     public Rigidbody2D rb;
 
-    public float moveSpeed =100;
+    public float moveX;
     public int jumpHeight = 1250;
     private bool facingRight = false;
-    private float moveX = 0;
+    public float fallMultiplier = 2.5f;
+    public float lowJumpMultiplier = 2f;
 
     void Update()
     {
        PlayerMove();
+       if(rb.velocity.y<0)
+       {
+           rb.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier-1) * Time.deltaTime;           
+       }
+       else if (rb.velocity.y > 0 && !Input.GetKey(KeyCode.Space))
+       {
+            rb.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier-1) * Time.deltaTime; 
+       }
     }
 
     void PlayerMove(){
 
         if(Input.GetKey(KeyCode.A)){
-            moveX=-5;
-            rb.velocity = new Vector2(moveX,rb.velocity.y);
+            rb.velocity = new Vector2(-moveX,rb.velocity.y);
             transform.localScale = new Vector2(-1.5f,1.5f);
         }
 
         if(Input.GetKey(KeyCode.D)){
-            moveX=5;
             rb.velocity = new Vector2(moveX,rb.velocity.y);
             transform.localScale = new Vector2(1.5f,1.5f);
         }
