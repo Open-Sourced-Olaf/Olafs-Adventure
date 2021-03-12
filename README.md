@@ -10,11 +10,11 @@ Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
 - [x] Raw Sketch
   - [x] Level l
   - [x] Level 2
-  - [x] Level 3   
+  - [x] Level 3
 - [ ] Level Design
   - [x] Level l
   - [ ] Level 2
-  - [ ] Level 3  
+  - [ ] Level 3
 - [ ] Coding
   - [ ] Level l
   - [ ] Level 2
