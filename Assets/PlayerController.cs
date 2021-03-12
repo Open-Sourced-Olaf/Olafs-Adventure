@@ -2,12 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PlayerController : MonoBehaviour {
 
-    public float moveSpeed =10;
+    public Rigidbody2D rb;
+
+    public float moveSpeed =100;
     public int jumpHeight = 1250;
     private bool facingRight = false;
-    private float moveX;
+    private float moveX = 0;
 
     void Update()
     {
@@ -16,10 +19,20 @@ public class PlayerController : MonoBehaviour {
 
     void PlayerMove(){
 
-        moveX=Input.GetAxis("Horizontal");
+        if(Input.GetKey(KeyCode.A)){
+            moveX=-5;
+            rb.velocity = new Vector2(moveX,rb.velocity.y);
+            transform.localScale = new Vector2(-1.5f,1.5f);
+        }
 
-        if(Input.GetButtonDown("Jump")){
-            Jump();
+        if(Input.GetKey(KeyCode.D)){
+            moveX=5;
+            rb.velocity = new Vector2(moveX,rb.velocity.y);
+            transform.localScale = new Vector2(1.5f,1.5f);
+        }
+
+        if(Input.GetKeyDown(KeyCode.Space)){
+            rb.velocity = new Vector2(rb.velocity.x,jumpHeight);
         }
 
         if(moveX<0.0f && facingRight==false)
@@ -30,14 +43,7 @@ public class PlayerController : MonoBehaviour {
         {
             flipPlayer();
         }
-
-        gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2 (moveX * moveSpeed, gameObject.GetComponent<Rigidbody2D>().velocity.y); 
-
     }
-
-void Jump(){
-    GetComponent<Rigidbody2D>().AddForce (Vector2.up * jumpHeight);
-}
 
 void flipPlayer(){
 facingRight=!facingRight;
