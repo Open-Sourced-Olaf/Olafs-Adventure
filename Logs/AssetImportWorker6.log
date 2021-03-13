@@ -1,0 +1,137 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/mhins/Desktop/Olaf's Adventures
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+35693
+Successfully changed project path to: C:/Users/mhins/Desktop/Olaf's Adventures
+C:/Users/mhins/Desktop/Olaf's Adventures
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 226.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mhins/Desktop/Olaf's Adventures/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     4065 MB
+    Driver:   22.21.13.8264
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012724 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 674.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.134 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006216 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 287.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.593 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.63 seconds
+Refreshing native plugins compatible for Editor in 2.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 19.865400 ms (FindLiveObjects: 1.713200 ms CreateObjectMapping: 0.493100 ms MarkObjects: 17.107500 ms  DeleteObjects: 0.544900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/WinterTileset/png/Object/SnowMan1.png
+  artifactKey: Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/WinterTileset/png/Object/SnowMan1.png using Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d02c184894abf10d0682dc4c0e0e102') in 1.269809 seconds
+  Import took 1.304705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.765653 seconds.
+  path: Assets/Sprites/WinterTileset/png/Object/SnowMan1.png
+  artifactKey: Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/WinterTileset/png/Object/SnowMan1.png using Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4fb071dceea4a2f6fa00577ee341ef') in 0.322157 seconds
+  Import took 0.435829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.187704 seconds.
+  path: Assets/Sprites/WinterTileset/png/Object/SnowMan1.png
+  artifactKey: Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/WinterTileset/png/Object/SnowMan1.png using Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecf5490b1fe6aca17ed85ecde71e85c') in 0.192152 seconds
+  Import took 0.319265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 435.340683 seconds.
+  path: Assets/Sprites/WinterTileset/png/Object/SnowMan1.png
+  artifactKey: Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/WinterTileset/png/Object/SnowMan1.png using Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560e502017f3cc08b98b8536803221a1') in 0.252982 seconds
+  Import took 0.306377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002995 seconds.
+  path: Assets/Sprites/WinterTileset/png/Object/SnowMan1.png
+  artifactKey: Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/WinterTileset/png/Object/SnowMan1.png using Guid(0266177ee5a956840905f3ba29302467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560e502017f3cc08b98b8536803221a1') in 0.999651 seconds
+  Import took 1.101615 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.172565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.684 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1933 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.1 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 53.414700 ms (FindLiveObjects: 0.911100 ms CreateObjectMapping: 1.629700 ms MarkObjects: 48.111800 ms  DeleteObjects: 2.757800 ms)
+
