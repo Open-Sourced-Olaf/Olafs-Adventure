@@ -54,7 +54,10 @@ public class PlayerController : MonoBehaviour {
         // jump logic
 
         if(Input.GetKeyDown(KeyCode.Space)){
-            rb.velocity = new Vector2(rb.velocity.x,jumpHeight);
+            if(rb.velocity.y == 0)
+            {
+             rb.velocity = new Vector2(rb.velocity.x,jumpHeight);
+            }
         }
 
         // flip left if movement left
