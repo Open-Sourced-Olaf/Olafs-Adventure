@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public class PlayerController : MonoBehaviour {
@@ -14,11 +15,50 @@ public class PlayerController : MonoBehaviour {
     public float fallMultiplier = 2.5f;
     public float lowJumpMultiplier = 2f;
 
+    public int candies=0;
+    public Text candyAmount;
+
     void Update()
     {
+
        PlayerMove();
 
-       // for better character jump (long jump on long press) 
+    }
+
+    void PlayerMove(){
+
+        // left movement & animation
+
+        if(Input.GetKey(KeyCode.A)){
+            rb.velocity = new Vector2(-moveX,rb.velocity.y);
+            transform.localScale = new Vector2(-1.5f,1.5f);
+            anim.SetBool("running",true);
+        }
+
+        // right movement & animation
+
+        else if(Input.GetKey(KeyCode.D)){
+            rb.velocity = new Vector2(moveX,rb.velocity.y);
+            transform.localScale = new Vector2(1.5f,1.5f);
+            anim.SetBool("running",true);
+        }
+
+        // idle animation
+
+        else{
+            anim.SetBool("running",false);
+        }
+
+        // jump logic
+
+        if(Input.GetKeyDown(KeyCode.Space)){
+            if(rb.velocity.y == 0)
+            {
+             rb.velocity = new Vector2(rb.velocity.x,jumpHeight);
+            }
+        }
+
+        // for better character jump (long jump on long press) 
 
        if(rb.velocity.y<0)
        {
@@ -28,37 +68,6 @@ public class PlayerController : MonoBehaviour {
        {
             rb.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier-1) * Time.deltaTime; 
        }
-    }
-
-    void PlayerMove(){
-
-        // left movement 
-
-        if(Input.GetKey(KeyCode.A)){
-            rb.velocity = new Vector2(-moveX,rb.velocity.y);
-            transform.localScale = new Vector2(-1.5f,1.5f);
-            anim.SetBool("running",true);
-        }
-
-        // right movement
-
-        else if(Input.GetKey(KeyCode.D)){
-            rb.velocity = new Vector2(moveX,rb.velocity.y);
-            transform.localScale = new Vector2(1.5f,1.5f);
-            anim.SetBool("running",true);
-        }
-
-        else{
-            anim.SetBool("running",false);
-        }
-        // jump logic
-
-        if(Input.GetKeyDown(KeyCode.Space)){
-            if(rb.velocity.y == 0)
-            {
-             rb.velocity = new Vector2(rb.velocity.x,jumpHeight);
-            }
-        }
 
         // flip left if movement left
 
@@ -74,13 +83,29 @@ public class PlayerController : MonoBehaviour {
             flipPlayer();
         }
     }
-    void Fire(Collider other)
+
+    //Candies logic (On Collide)
+
+    public void OnTriggerEnter2D(Collider2D candy )
     {
-        if(other.gameObject.CompareTag ("Fire"))
+        // Good candies logic
+        if(candy.tag=="Gcandies")
         {
-            Destroy(gameObject);
+            Destroy(candy.gameObject);
+            candies +=1;
+            candyAmount.text=candies.ToString();
+        }
+
+        // Bad candies logic
+        if(candy.tag=="Bcandies")
+        {
+            Destroy(candy.gameObject);
+            candies -=1;
+            candyAmount.text=candies.ToString();
         }
     }
+
+    
 
     // Flip player logic
 

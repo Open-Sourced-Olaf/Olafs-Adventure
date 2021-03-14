@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Fire
+  - Gcandies
+  - Bcandies
   layers:
   - Default
   - TransparentFX
@@ -50,4 +52,7 @@ TagManager:
     locked: 0
   - name: Effects
     uniqueID: 2193893519
+    locked: 0
+  - name: Entity
+    uniqueID: 2649809657
     locked: 0
