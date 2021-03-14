@@ -84,6 +84,15 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
+    // Flip player logic
+
+    void flipPlayer(){
+        facingRight=!facingRight;
+        Vector2 localScale = gameObject.transform.localScale;
+        localScale.x *= -1;
+        transform.localScale= localScale;
+    }
+
     //Candies logic (On Collide)
 
     public void OnTriggerEnter2D(Collider2D candy )
@@ -105,17 +114,18 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    
-
-    // Flip player logic
-
-    void flipPlayer(){
-        facingRight=!facingRight;
-        Vector2 localScale = gameObject.transform.localScale;
-        localScale.x *= -1;
-        transform.localScale= localScale;
+    // Killing Yeti
+    public void OnCollisionEnter2D(Collision2D yeti )
+    {
+        if(yeti.gameObject.tag=="Yeti")
+        {
+            // kill while Player is falling (jumping on head)
+            if(rb.velocity.y<0)
+            {
+            Destroy(yeti.gameObject);
+            }
+        }
     }
-
 
 }
 
