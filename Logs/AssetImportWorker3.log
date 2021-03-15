@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/mhins/Desktop/Olaf's Adventures
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+49379
+Successfully changed project path to: C:/Users/mhins/Desktop/Olaf's Adventures
+C:/Users/mhins/Desktop/Olaf's Adventures
+Using Asset Import Pipeline V2.
