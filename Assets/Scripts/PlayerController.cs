@@ -15,8 +15,11 @@ public class PlayerController : MonoBehaviour {
     public float fallMultiplier = 2.5f;
     public float lowJumpMultiplier = 2f;
 
-    public int candies=0;
+    public int candies=5;
     public Text candyAmount;
+
+    public int lifes=3;
+    public Text lifeAmount;
 
     void Update()
     {
@@ -102,7 +105,7 @@ public class PlayerController : MonoBehaviour {
         {
             Destroy(candy.gameObject);
             candies +=1;
-            candyAmount.text=candies.ToString();
+            candyAmount.text= candies.ToString();
         }
 
         // Bad candies logic
@@ -122,8 +125,14 @@ public class PlayerController : MonoBehaviour {
             // kill while Player is falling (jumping on head)
             if(rb.velocity.y<0)
             {
-            Destroy(yeti.gameObject);
+                Destroy(yeti.gameObject);
             }
+            else // players life reduced
+            {
+                lifes -=1;
+                lifeAmount.text=lifes.ToString();
+            }
+
         }
     }
 
