@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Yeti : MonoBehaviour
 {
     public bool MoveLeft=true;
@@ -28,5 +29,7 @@ public class Yeti : MonoBehaviour
             MoveLeft =!MoveLeft;
         }
     }
+
+
 
 }
