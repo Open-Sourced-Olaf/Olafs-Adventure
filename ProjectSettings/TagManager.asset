@@ -58,3 +58,6 @@ TagManager:
   - name: Entity
     uniqueID: 2649809657
     locked: 0
+  - name: Game Over
+    uniqueID: 1635487355
+    locked: 0

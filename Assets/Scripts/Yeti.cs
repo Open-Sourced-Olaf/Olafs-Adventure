@@ -21,6 +21,7 @@ public class Yeti : MonoBehaviour
             transform.localScale = new Vector2(-1,1);    
         }
     }
+ 
 
     void OnTriggerEnter2D(Collider2D yeti)
     {

@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour {
 
     public Rigidbody2D rb;
     public Animator anim;
+    public Transform respawnPoint;
+    public GameOver GameOver;
     
     public float moveX;
     public int jumpHeight = 1250;
@@ -15,16 +17,18 @@ public class PlayerController : MonoBehaviour {
     public float fallMultiplier = 2.5f;
     public float lowJumpMultiplier = 2f;
 
-    public int candies=5;
+    public int candies=0;
     public Text candyAmount;
 
-    public int lifes=3;
+    public int lives=3;
     public Text lifeAmount;
 
     void Update()
     {
 
        PlayerMove();
+       GameOverScreen();
+
 
     }
 
@@ -117,22 +121,37 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    // Killing Yeti
-    public void OnCollisionEnter2D(Collision2D yeti )
+    // Player life decrement if in contact with Fire and Yeti
+    public void OnCollisionEnter2D(Collision2D player )
     {
-        if(yeti.gameObject.tag=="Yeti")
+        if(player.gameObject.tag=="Yeti")
         {
-            // kill while Player is falling (jumping on head)
+            // kill Yeti if Player is falling (jumping on head)
             if(rb.velocity.y<0)
             {
-                Destroy(yeti.gameObject);
+                Destroy(player.gameObject);
             }
             else // players life reduced
             {
-                lifes -=1;
-                lifeAmount.text=lifes.ToString();
+            lives -=1;
+            lifeAmount.text=lives.ToString();
+            rb.gameObject.transform.position=respawnPoint.position;
             }
+        }
+         if(player.gameObject.tag=="Fire") // players life reduced
+        {
+            lives -=1;
+            lifeAmount.text=lives.ToString();
+            rb.gameObject.transform.position=respawnPoint.position;
+        }
+    }
 
+    void GameOverScreen(){
+        if (lives==0)
+        {
+            GameOver.Setup();
+            Destroy(rb);
+            candyAmount.text="0";
         }
     }
 
