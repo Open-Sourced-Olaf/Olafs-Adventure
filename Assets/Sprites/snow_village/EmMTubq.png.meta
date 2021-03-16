@@ -1,0 +1,2868 @@
+fileFormatVersion: 2
+guid: 1f9b0f52828098c43b63aad8742537d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1495415372130055511
+    second: EmMTubq_0
+  - first:
+      213: -6445426212354451395
+    second: EmMTubq_1
+  - first:
+      213: 8529947857300976602
+    second: EmMTubq_2
+  - first:
+      213: -357005117557155114
+    second: EmMTubq_3
+  - first:
+      213: -6910696648825579700
+    second: EmMTubq_4
+  - first:
+      213: 8451418989595191560
+    second: EmMTubq_5
+  - first:
+      213: -1436780823008450019
+    second: EmMTubq_6
+  - first:
+      213: 8680838840611841430
+    second: EmMTubq_7
+  - first:
+      213: 4231765704421728184
+    second: EmMTubq_8
+  - first:
+      213: -2664103326387087344
+    second: EmMTubq_9
+  - first:
+      213: 2166499827855558726
+    second: EmMTubq_10
+  - first:
+      213: 2249602942895453230
+    second: EmMTubq_11
+  - first:
+      213: 7048246843864470459
+    second: EmMTubq_12
+  - first:
+      213: -1409636263108735334
+    second: EmMTubq_13
+  - first:
+      213: -5320768464065482585
+    second: EmMTubq_14
+  - first:
+      213: 472997690037078878
+    second: EmMTubq_15
+  - first:
+      213: 136524672316687163
+    second: EmMTubq_16
+  - first:
+      213: -315177761459630554
+    second: EmMTubq_17
+  - first:
+      213: -7517044770156998103
+    second: EmMTubq_18
+  - first:
+      213: 3625436790254900024
+    second: EmMTubq_19
+  - first:
+      213: -5016029965743933987
+    second: EmMTubq_20
+  - first:
+      213: -3558429745834914528
+    second: EmMTubq_21
+  - first:
+      213: -3832077111366859652
+    second: EmMTubq_22
+  - first:
+      213: -6456364201015038188
+    second: EmMTubq_23
+  - first:
+      213: -3012417717703446987
+    second: EmMTubq_24
+  - first:
+      213: 7636479038812263724
+    second: EmMTubq_25
+  - first:
+      213: -8753690089843017069
+    second: EmMTubq_26
+  - first:
+      213: 4239414673254089236
+    second: EmMTubq_27
+  - first:
+      213: -6353326732528091706
+    second: EmMTubq_28
+  - first:
+      213: 6855415661900016969
+    second: EmMTubq_29
+  - first:
+      213: -4636626146123056481
+    second: EmMTubq_30
+  - first:
+      213: -921067081410655864
+    second: EmMTubq_31
+  - first:
+      213: 373975294647515787
+    second: EmMTubq_32
+  - first:
+      213: -6650875533021522090
+    second: EmMTubq_33
+  - first:
+      213: -4549477727830083139
+    second: EmMTubq_34
+  - first:
+      213: 4461304917976521256
+    second: EmMTubq_35
+  - first:
+      213: 5481840632313631062
+    second: EmMTubq_36
+  - first:
+      213: 50569099555438097
+    second: EmMTubq_37
+  - first:
+      213: -1332609788116180609
+    second: EmMTubq_38
+  - first:
+      213: 949860235389991536
+    second: EmMTubq_39
+  - first:
+      213: -7988990028882053799
+    second: EmMTubq_40
+  - first:
+      213: 9079589783363454100
+    second: EmMTubq_41
+  - first:
+      213: -308706934489882750
+    second: EmMTubq_42
+  - first:
+      213: -6223209405172433697
+    second: EmMTubq_43
+  - first:
+      213: 5508709487246709563
+    second: EmMTubq_44
+  - first:
+      213: -4522357982788286598
+    second: EmMTubq_45
+  - first:
+      213: 5878865017184762362
+    second: EmMTubq_46
+  - first:
+      213: -1880564936425954250
+    second: EmMTubq_47
+  - first:
+      213: 3551028133263206721
+    second: EmMTubq_48
+  - first:
+      213: -6719405875129207899
+    second: EmMTubq_49
+  - first:
+      213: -8226076115301982810
+    second: EmMTubq_50
+  - first:
+      213: -461846457748804377
+    second: EmMTubq_51
+  - first:
+      213: 1424754269898686939
+    second: EmMTubq_52
+  - first:
+      213: 7583961219024085713
+    second: EmMTubq_53
+  - first:
+      213: -3247946726625305300
+    second: EmMTubq_54
+  - first:
+      213: -9110625292513482215
+    second: EmMTubq_55
+  - first:
+      213: -4624594529609265700
+    second: EmMTubq_56
+  - first:
+      213: 173232516521672385
+    second: EmMTubq_57
+  - first:
+      213: -1134049099286454303
+    second: EmMTubq_58
+  - first:
+      213: -3150314629517210808
+    second: EmMTubq_59
+  - first:
+      213: -4360224252807325579
+    second: EmMTubq_60
+  - first:
+      213: -308320435677032136
+    second: EmMTubq_61
+  - first:
+      213: 449348807919455127
+    second: EmMTubq_62
+  - first:
+      213: 2042999613759226376
+    second: EmMTubq_63
+  - first:
+      213: -7841445581614915174
+    second: EmMTubq_64
+  - first:
+      213: 1036370343130800490
+    second: EmMTubq_65
+  - first:
+      213: -4989330538633120777
+    second: EmMTubq_66
+  - first:
+      213: -7798534627316200788
+    second: EmMTubq_67
+  - first:
+      213: 6768513760962416943
+    second: EmMTubq_68
+  - first:
+      213: -6051457615157994796
+    second: EmMTubq_69
+  - first:
+      213: 1563302338060119768
+    second: EmMTubq_70
+  - first:
+      213: -8810703812360158937
+    second: EmMTubq_71
+  - first:
+      213: -7098009103429215404
+    second: EmMTubq_72
+  - first:
+      213: -9109726167121096265
+    second: EmMTubq_73
+  - first:
+      213: -2544978563215779873
+    second: EmMTubq_74
+  - first:
+      213: -3308552755761690267
+    second: EmMTubq_75
+  - first:
+      213: -1207415457102337783
+    second: EmMTubq_76
+  - first:
+      213: -3470915357079320953
+    second: EmMTubq_77
+  - first:
+      213: 6958045832079452905
+    second: EmMTubq_78
+  - first:
+      213: 2151803916473129374
+    second: EmMTubq_79
+  - first:
+      213: 4528889285130943811
+    second: EmMTubq_80
+  - first:
+      213: 2764218017570636695
+    second: EmMTubq_81
+  - first:
+      213: -1099781625893164150
+    second: EmMTubq_82
+  - first:
+      213: -3695379192529433012
+    second: EmMTubq_83
+  - first:
+      213: -578423694724728838
+    second: EmMTubq_84
+  - first:
+      213: -7634663718184604987
+    second: EmMTubq_85
+  - first:
+      213: -455269079239077679
+    second: EmMTubq_86
+  - first:
+      213: 5016456410675698546
+    second: EmMTubq_87
+  - first:
+      213: -3434664849316362874
+    second: EmMTubq_88
+  - first:
+      213: -6211348125207969335
+    second: EmMTubq_89
+  - first:
+      213: -6786173433619278717
+    second: EmMTubq_90
+  - first:
+      213: -8175162396135004361
+    second: EmMTubq_91
+  - first:
+      213: -4763478888278610288
+    second: EmMTubq_92
+  - first:
+      213: 5477994511352449659
+    second: EmMTubq_93
+  - first:
+      213: 4393686442960637091
+    second: EmMTubq_94
+  - first:
+      213: 5874289046378899590
+    second: EmMTubq_95
+  - first:
+      213: 6466480252090824217
+    second: EmMTubq_96
+  - first:
+      213: -3566155254625854096
+    second: EmMTubq_97
+  - first:
+      213: -5835803097582872350
+    second: EmMTubq_98
+  - first:
+      213: -5203311547750142237
+    second: EmMTubq_99
+  - first:
+      213: 1025491858683578524
+    second: EmMTubq_100
+  - first:
+      213: 5845322523097662147
+    second: EmMTubq_101
+  - first:
+      213: -484195379098900195
+    second: EmMTubq_102
+  - first:
+      213: -5154408042648151597
+    second: EmMTubq_103
+  - first:
+      213: 2436682660330260773
+    second: EmMTubq_104
+  - first:
+      213: -6797488251566706327
+    second: EmMTubq_105
+  - first:
+      213: -323196508027716987
+    second: EmMTubq_106
+  - first:
+      213: 583524921984983252
+    second: EmMTubq_107
+  - first:
+      213: -8501325225679428081
+    second: EmMTubq_108
+  - first:
+      213: 2024645974427227959
+    second: EmMTubq_109
+  - first:
+      213: -8366699102920293010
+    second: EmMTubq_110
+  - first:
+      213: 1691781905705453433
+    second: EmMTubq_111
+  - first:
+      213: 4266212990557819386
+    second: EmMTubq_112
+  - first:
+      213: -3729472296361858170
+    second: EmMTubq_113
+  - first:
+      213: 9004855869456310779
+    second: EmMTubq_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmMTubq_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 336
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa878064a73f3be0800000000000000
+      internalID: -1495415372130055511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 672
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381f9a520f3d86a0800000000000000
+      internalID: -6445426212354451395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 624
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad37703f166706670800000000000000
+      internalID: 8529947857300976602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 720
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5201bcb9ab0bf0800000000000000
+      internalID: -357005117557155114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 720
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d44823064810a0800000000000000
+      internalID: -6910696648825579700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 50
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809efc22bc8794570800000000000000
+      internalID: 8451418989595191560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aec7034778f0ce0800000000000000
+      internalID: -1436780823008450019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 384
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952517bee8887870800000000000000
+      internalID: 8680838840611841430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 675
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfdcb0cc704aba30800000000000000
+      internalID: 4231765704421728184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 675
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d2c1c324370bd0800000000000000
+      internalID: -2664103326387087344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 636
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64886456d14f01e10800000000000000
+      internalID: 2166499827855558726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f4f825f1383f10800000000000000
+      internalID: 2249602942895453230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 624
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35fc9492760d160800000000000000
+      internalID: 7048246843864470459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 587
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e05ea8947ff6ce0800000000000000
+      internalID: -1409636263108735334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 578
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b647c545d826b0800000000000000
+      internalID: -5320768464065482585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 581
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b8d3e94ec609600800000000000000
+      internalID: 472997690037078878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334384577805e100800000000000000
+      internalID: 136524672316687163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e881fee7340abf0800000000000000
+      internalID: -315177761459630554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 534
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922951acb971ea790800000000000000
+      internalID: -7517044770156998103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 534
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83396c66d83205230800000000000000
+      internalID: 3625436790254900024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53e1d725b736ab0800000000000000
+      internalID: -5016029965743933987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 510
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d8351effaed9ec0800000000000000
+      internalID: -3558429745834914528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 510
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c211ab2ab1dac0800000000000000
+      internalID: -3832077111366859652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 510
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f23f967f26666a0800000000000000
+      internalID: -6456364201015038188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6135db0eb136d0800000000000000
+      internalID: -3012417717703446987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 530
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251f1bd9393af960800000000000000
+      internalID: 7636479038812263724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 529
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abc090e35a48680800000000000000
+      internalID: -8753690089843017069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 534
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41283e61f2d65da30800000000000000
+      internalID: 4239414673254089236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 528
+        width: 94
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7ba58ff274d7a0800000000000000
+      internalID: -6353326732528091706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 492
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d23331934532f50800000000000000
+      internalID: 6855415661900016969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 492
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9afb04061567afb0800000000000000
+      internalID: -4636626146123056481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 493
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88946369e56b733f0800000000000000
+      internalID: -921067081410655864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 482
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8abc309c80a03500800000000000000
+      internalID: 373975294647515787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 494
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575ae8c0f753b3a0800000000000000
+      internalID: -6650875533021522090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 47
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f2275c120dd0c0800000000000000
+      internalID: -4549477727830083139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a91b69f2db9ed30800000000000000
+      internalID: 4461304917976521256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_36
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 490
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515b54d209631c40800000000000000
+      internalID: 5481840632313631062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 489
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11efc9ff358a3b000800000000000000
+      internalID: 50569099555438097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71602b457e918de0800000000000000
+      internalID: -1332609788116180609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_39
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 480
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a70bcf9d49e2d00800000000000000
+      internalID: 949860235389991536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_40
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 485
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f85e65e7612190800000000000000
+      internalID: -7988990028882053799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405af5dce210e70800000000000000
+      internalID: 9079589783363454100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 437
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd70ebda047bbf0800000000000000
+      internalID: -308706934489882750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb3d99408b2a9a0800000000000000
+      internalID: -6223209405172433697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 404
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331a2e971ed27c40800000000000000
+      internalID: 5508709487246709563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 405
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7780c8006b5d31c0800000000000000
+      internalID: -4522357982788286598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 418
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9b4c7e59ce59150800000000000000
+      internalID: 5878865017184762362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 418
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a64b6724e6e5e0800000000000000
+      internalID: -1880564936425954250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 418
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496296e549c74130800000000000000
+      internalID: 3551028133263206721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3304f15ffdfb2a0800000000000000
+      internalID: -6719405875129207899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 436
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad99145b5b17dd80800000000000000
+      internalID: -8226076115301982810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_51
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 441
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2c19f7113799f0800000000000000
+      internalID: -461846457748804377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_52
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 434
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14885b57eb5c310800000000000000
+      internalID: 1424754269898686939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e4421c84af3960800000000000000
+      internalID: 7583961219024085713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_54
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 438
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1b1619a9fce2d0800000000000000
+      internalID: -3247946726625305300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 389
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6b0e019e809180800000000000000
+      internalID: -9110625292513482215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 389
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcc6807c322dfb0800000000000000
+      internalID: -4624594529609265700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 385
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce32d25e02776200800000000000000
+      internalID: 173232516521672385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_58
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 419
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdd274a5c0340f0800000000000000
+      internalID: -1134049099286454303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_59
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 415
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b09e81985d744d0800000000000000
+      internalID: -3150314629517210808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_60
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 416
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578506eb42f5d73c0800000000000000
+      internalID: -4360224252807325579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_61
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 422
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8311a728230a8bbf0800000000000000
+      internalID: -308320435677032136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_62
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 386
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc84c2c586c3600800000000000000
+      internalID: 449348807919455127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_63
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 386
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802016e03513a5c10800000000000000
+      internalID: 2042999613759226376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 406
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91694e0ac69d2390800000000000000
+      internalID: -7841445581614915174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_65
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 412
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61af0e065de16e00800000000000000
+      internalID: 1036370343130800490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_66
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 407
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b3c94f4652cab0800000000000000
+      internalID: -4989330538633120777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_67
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 390
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa0c3a231a06c390800000000000000
+      internalID: -7798534627316200788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_68
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 396
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21128b87679eed50800000000000000
+      internalID: 6768513760962416943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 400
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dadc2b6c57e40ca0800000000000000
+      internalID: -6051457615157994796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_70
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 390
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6c989137f1b510800000000000000
+      internalID: 1563302338060119768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_71
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 393
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c71350971ab580800000000000000
+      internalID: -8810703812360158937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_72
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 386
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bdc99c35ece7d90800000000000000
+      internalID: -7098009103429215404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19aaff050c39180800000000000000
+      internalID: -9109726167121096265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 339
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd71a8a0b7b6eacd0800000000000000
+      internalID: -2544978563215779873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 339
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694f205cc8a512d0800000000000000
+      internalID: -3308552755761690267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096917f9066e3fe0800000000000000
+      internalID: -1207415457102337783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 243
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c6d75fd4d4dfc0800000000000000
+      internalID: -3470915357079320953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_78
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 346
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaabf7a1d1ff8060800000000000000
+      internalID: 6958045832079452905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_79
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 337
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99dca3e24ebcdd10800000000000000
+      internalID: 2151803916473129374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_80
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 297
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d7d4b4fc8d9de30800000000000000
+      internalID: 4528889285130943811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_81
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 289
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793480b34a97c5620800000000000000
+      internalID: 2764218017570636695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_82
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 289
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be22a207accb0f0800000000000000
+      internalID: -1099781625893164150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 337
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec9ee043067bcc0800000000000000
+      internalID: -3695379192529433012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7734ad6b609f7f0800000000000000
+      internalID: -578423694724728838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_85
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 142
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2b0a6cc93c0690800000000000000
+      internalID: -7634663718184604987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 50
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d05cbe3f2f8ea9f0800000000000000
+      internalID: -455269079239077679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 240
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5e85f6880e9540800000000000000
+      internalID: 5016456410675698546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854af5648e9550d0800000000000000
+      internalID: -3434664849316362874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 240
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c0bc0acbdcc9a0800000000000000
+      internalID: -6211348125207969335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841ee0873ba2d1a0800000000000000
+      internalID: -6786173433619278717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ed355d1dfb8e80800000000000000
+      internalID: -8175162396135004361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_92
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 198
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea4196039b4edb0800000000000000
+      internalID: -4763478888278610288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac3b20cfeb50c40800000000000000
+      internalID: 5477994511352449659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4e178a8289fc30800000000000000
+      internalID: 4393686442960637091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_95
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 201
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e16da3caa58150800000000000000
+      internalID: 5874289046378899590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 48
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b3f4478d8db950800000000000000
+      internalID: 6466480252090824217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1222b0b8728ec0800000000000000
+      internalID: -3566155254625854096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d27d8000130fa0800000000000000
+      internalID: -5835803097582872350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2aa437bf1ac7b0800000000000000
+      internalID: -5203311547750142237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 159
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c3e489674b3e00800000000000000
+      internalID: 1025491858683578524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 153
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c283da6dd1ce1150800000000000000
+      internalID: 5845322523097662147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 153
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19acea3edac749f0800000000000000
+      internalID: -484195379098900195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95a86c13dd778b0800000000000000
+      internalID: -5154408042648151597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c65f28f5d0d120800000000000000
+      internalID: 2436682660330260773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_105
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 144
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b97823787aa1a0800000000000000
+      internalID: -6797488251566706327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 528
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7c520d76c38bf0800000000000000
+      internalID: -323196508027716987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a08c23d8191800800000000000000
+      internalID: 583524921984983252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066f4bcfb9350a80800000000000000
+      internalID: -8501325225679428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737d8a569ccf81c10800000000000000
+      internalID: 2024645974427227959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_110
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 48
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654bdb9e7383eb80800000000000000
+      internalID: -8366699102920293010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_111
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977c1070eaa6a7710800000000000000
+      internalID: 1691781905705453433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_112
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af11b5e8c12a43b30800000000000000
+      internalID: 4266212990557819386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_113
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be0bfb4b04e3cc0800000000000000
+      internalID: -3729472296361858170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmMTubq_114
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e88814bca7fc70800000000000000
+      internalID: 9004855869456310779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
