@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour {
     public Rigidbody2D rb;
     public Animator anim;
     public Transform respawnPoint;
+    public GameOver GameOver;
     
     public float moveX;
     public int jumpHeight = 1250;
@@ -26,6 +27,8 @@ public class PlayerController : MonoBehaviour {
     {
 
        PlayerMove();
+       GameOverScreen();
+
 
     }
 
@@ -140,6 +143,15 @@ public class PlayerController : MonoBehaviour {
             lives -=1;
             lifeAmount.text=lives.ToString();
             rb.gameObject.transform.position=respawnPoint.position;
+        }
+    }
+
+    void GameOverScreen(){
+        if (lives==0)
+        {
+            GameOver.Setup();
+            Destroy(rb);
+            candyAmount.text="0";
         }
     }
 
