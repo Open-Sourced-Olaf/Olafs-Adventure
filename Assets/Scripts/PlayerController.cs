@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerController : MonoBehaviour {
@@ -10,6 +11,7 @@ public class PlayerController : MonoBehaviour {
     public Animator anim;
     public Transform respawnPoint;
     public GameOver GameOver;
+    public GameOver snowgie;
     
     public float moveX;
     public int jumpHeight = 1250;
@@ -33,6 +35,10 @@ public class PlayerController : MonoBehaviour {
                 anim.SetBool("hurt",false);
             }
 
+            if (Input.anyKeyDown) // To Hide the snowgie dialogue once player moves off the area
+            {
+                snowgie.Setup(false);
+            }
        GameOverScreen(); // Ivoked When all lives are consumed
 
 
@@ -95,6 +101,7 @@ public class PlayerController : MonoBehaviour {
         {
             flipPlayer();
         }
+        
     }
 
     // Flip player logic
@@ -106,25 +113,36 @@ public class PlayerController : MonoBehaviour {
         transform.localScale= localScale;
     }
 
-    //Candies logic (On Collide)
+    //To collect candies and the final snowgie interaction
 
-    public void OnTriggerEnter2D(Collider2D candy )
+    public void OnTriggerEnter2D(Collider2D collide )
     {
         // Good candies logic
-        if(candy.tag=="Gcandies")
+        if(collide.tag=="Gcandies")
         {
-            Destroy(candy.gameObject);
+            Destroy(collide.gameObject);
             candies +=1;
             candyAmount.text= candies.ToString();
         }
 
         // Bad candies logic
-        if(candy.tag=="Bcandies")
+        if(collide.tag=="Bcandies")
         {
-            Destroy(candy.gameObject);
+            Destroy(collide.gameObject);
             candies -=1;
             candyAmount.text=candies.ToString();
         }
+
+        // Interaction with sowgie
+        if ((collide.tag=="snowgie")&&(candies < 10)) //  show dialogue if candies < 10 
+        {
+            snowgie.Setup(true);
+        }
+        else if((collide.tag=="snowgie")&&(candies>=10)) // Congratulations Scene
+        {
+            SceneManager.LoadScene("level1");
+        }
+
     }
 
     // Player life decrement if in contact with Fire and Yeti
@@ -158,7 +176,8 @@ public class PlayerController : MonoBehaviour {
         if (lives==0)
         {
             anim.SetBool("hurt",false); // To stop player blink animation
-            GameOver.Setup();
+            GameOver.Setup(true);       // display gameOver scene
+            snowgie.Setup(false);       // hide snowgie interaction dialogue
             Destroy(rb);
             candyAmount.text="0";
         }
