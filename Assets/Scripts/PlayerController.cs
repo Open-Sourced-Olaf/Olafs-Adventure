@@ -26,8 +26,14 @@ public class PlayerController : MonoBehaviour {
     void Update()
     {
 
-       PlayerMove();
-       GameOverScreen();
+       PlayerMove(); // For Character movement
+       
+            if (rb.velocity.y>0) // To Stop player blink animation after respwan
+            {
+                anim.SetBool("hurt",false);
+            }
+
+       GameOverScreen(); // Ivoked When all lives are consumed
 
 
     }
@@ -135,6 +141,7 @@ public class PlayerController : MonoBehaviour {
             {
             lives -=1;
             lifeAmount.text=lives.ToString();
+            anim.SetBool("hurt",true); // player blink animation
             rb.gameObject.transform.position=respawnPoint.position;
             }
         }
@@ -142,6 +149,7 @@ public class PlayerController : MonoBehaviour {
         {
             lives -=1;
             lifeAmount.text=lives.ToString();
+            anim.SetBool("hurt",true); // player blink animation
             rb.gameObject.transform.position=respawnPoint.position;
         }
     }
@@ -149,6 +157,7 @@ public class PlayerController : MonoBehaviour {
     void GameOverScreen(){
         if (lives==0)
         {
+            anim.SetBool("hurt",false); // To stop player blink animation
             GameOver.Setup();
             Destroy(rb);
             candyAmount.text="0";
