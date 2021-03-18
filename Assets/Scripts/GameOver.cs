@@ -5,9 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
-    public void Setup(bool val)
+
+    public void Setup()
     {
-        gameObject.SetActive (val);
+        gameObject.SetActive(true);
     }
 
     public void RestartButton()
@@ -19,4 +20,5 @@ public class GameOver : MonoBehaviour
     {
         SceneManager.LoadScene("level1");
     }
+
 }
