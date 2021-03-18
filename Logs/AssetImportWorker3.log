@@ -80,3 +80,185 @@ Received Import Request.
 Start importing Assets/Sprites/PlayerFriction.physicMaterial using Guid(3ac877fcccd01004dad8d2d273acd601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66305d2ac20f7beb591a418de84fdd7e') in 0.422051 seconds
   Import took 0.459388 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 180.834923 seconds.
+  path: Assets/Sprites/New Physic Material.physicMaterial
+  artifactKey: Guid(5c9e836753bc028438efc02520a7a000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Physic Material.physicMaterial using Guid(5c9e836753bc028438efc02520a7a000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a503e9f6fdf9ecea420772e27fa70e') in 1.332049 seconds
+  Import took 1.850172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.598876 seconds.
+  path: Assets/Sprites/PlayerFriction.physicMaterial
+  artifactKey: Guid(5c9e836753bc028438efc02520a7a000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PlayerFriction.physicMaterial using Guid(5c9e836753bc028438efc02520a7a000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a02107d5dbe86a3ade8c6f1ca7cc6e') in 0.108518 seconds
+  Import took 0.176369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.902054 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47cf443bddc682ac2de11ea429897ce') in 0.032270 seconds
+  Import took 0.086397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.639993 seconds.
+  path: Assets/PhysicsMaterials
+  artifactKey: Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials using Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd712c22926ca873fed146b7d64cd6fc5') in 0.094879 seconds
+  Import took 0.304087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.843421 seconds.
+  path: Assets/PhysicsMaterials/New Physic Material.physicMaterial
+  artifactKey: Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/New Physic Material.physicMaterial using Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701bbfa49f8f7ee4a2077dfb059f8f53') in 0.068855 seconds
+  Import took 0.105633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.113958 seconds.
+  path: Assets/PhysicsMaterials/PlayerFriction.physicMaterial
+  artifactKey: Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/PlayerFriction.physicMaterial using Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a759843fad017f7bd3d8943c468a4c56') in 0.129901 seconds
+  Import took 0.210767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.939085 seconds.
+  path: Assets/Physics Materials
+  artifactKey: Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics Materials using Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3c3bb79678434579b79257d7f583c5') in 0.093239 seconds
+  Import took 0.134334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.213690 seconds.
+  path: Assets/PhysicsMaterials/New Material.mat
+  artifactKey: Guid(647966196d250e0499e439225ecd6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/New Material.mat using Guid(647966196d250e0499e439225ecd6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79f0c15fd33c3cf208e10968a224a10') in 5.471128 seconds
+  Import took 5.527122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.400721 seconds.
+  path: Assets/PhysicsMaterials/PlayerFriction.physicMaterial
+  artifactKey: Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/PlayerFriction.physicMaterial using Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cd2155d5ef4738eab59a41e86a9a87') in 0.112344 seconds
+  Import took 0.215386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007351 seconds.
+  path: Assets/PhysicsMaterials/PlayerFriction.physicMaterial
+  artifactKey: Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/PlayerFriction.physicMaterial using Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cd2155d5ef4738eab59a41e86a9a87') in 0.057134 seconds
+  Import took 0.094726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.402857 seconds.
+  path: Assets/PhysicsMaterials/PlayerFriction.physicsMaterial2D
+  artifactKey: Guid(a7951d16f6117f2478125bd108caaf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/PlayerFriction.physicsMaterial2D using Guid(a7951d16f6117f2478125bd108caaf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cddfc10b84ed3258fe8bda9cb4ad633') in 0.458712 seconds
+  Import took 0.558136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.461373 seconds.
+  path: Assets/PhysicsMaterials/PlayerFriction.physicMaterial
+  artifactKey: Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhysicsMaterials/PlayerFriction.physicMaterial using Guid(26fc7ecd5dff5cd4aa82e3fa5a319e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d63d109a921991a65396783fd6b14d') in 0.020327 seconds
+  Import took 0.061976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.820588 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(dedc597d1be30644585cf73458a52c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458b45a034047630483302be99587749') in 0.199803 seconds
+  Import took 0.344599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.781159 seconds.
+  path: Assets/Materials/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Physics Material 2D.physicsMaterial2D using Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b440497d8c8e117343c89a8cbdc20644') in 0.089476 seconds
+  Import took 0.177447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.412903 seconds.
+  path: Assets/Materials/PlayerFriction.physicsMaterial2D
+  artifactKey: Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlayerFriction.physicsMaterial2D using Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b73a37bb3caf1e4b6092018ec11dc9') in 0.086187 seconds
+  Import took 0.158447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009138 seconds.
+  path: Assets/Materials/PlayerFriction.physicsMaterial2D
+  artifactKey: Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlayerFriction.physicsMaterial2D using Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b73a37bb3caf1e4b6092018ec11dc9') in 0.071415 seconds
+  Import took 0.118444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.673340 seconds.
+  path: Assets/Materials/PlayerFriction.physicsMaterial2D
+  artifactKey: Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlayerFriction.physicsMaterial2D using Guid(cf88090862683af4aa7587745ea87a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ae74a9ef0cba23d80a50401fae378c') in 0.122946 seconds
+  Import took 0.275277 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.050018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1936 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2452.
+Total: 22.682500 ms (FindLiveObjects: 2.005200 ms CreateObjectMapping: 0.468500 ms MarkObjects: 19.604100 ms  DeleteObjects: 0.600500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001940 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1936 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2455.
+Total: 3.206000 ms (FindLiveObjects: 0.265900 ms CreateObjectMapping: 0.129900 ms MarkObjects: 2.775800 ms  DeleteObjects: 0.030500 ms)
+
