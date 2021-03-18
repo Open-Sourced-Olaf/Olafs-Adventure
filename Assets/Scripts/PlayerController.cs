@@ -62,9 +62,8 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(-moveX, rb.velocity.y);
             transform.localScale = new Vector2(-1.5f, 1.5f);
             anim.SetBool("running", true);
-        }
-        else // right movement & animation
-        if (Input.GetKey(KeyCode.D))
+        } // right movement & animation
+        else if (Input.GetKey(KeyCode.D))
         {
             rb.velocity = new Vector2(moveX, rb.velocity.y);
             transform.localScale = new Vector2(1.5f, 1.5f);
@@ -86,7 +85,6 @@ public class PlayerController : MonoBehaviour
         }
 
         // for better character jump (long jump on long press)
-
         if (rb.velocity.y < 0)
         {
             rb.velocity +=
@@ -108,9 +106,8 @@ public class PlayerController : MonoBehaviour
         if (moveX < 0.0f && facingRight == false)
         {
             flipPlayer();
-        }
-        else // flip right if movement right
-        if (moveX > 0.0f && facingRight == true)
+        } // flip right if movement right
+        else if (moveX > 0.0f && facingRight == true)
         {
             flipPlayer();
         }
