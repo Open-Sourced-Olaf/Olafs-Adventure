@@ -62,15 +62,16 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(-moveX, rb.velocity.y);
             transform.localScale = new Vector2(-1.5f, 1.5f);
             anim.SetBool("running", true);
-        } // right movement & animation
+        } 
+        // right movement & animation
         else if (Input.GetKey(KeyCode.D))
         {
             rb.velocity = new Vector2(moveX, rb.velocity.y);
             transform.localScale = new Vector2(1.5f, 1.5f);
             anim.SetBool("running", true);
         }
-        else
         // idle animation
+        else
         {
             anim.SetBool("running", false);
         }
@@ -142,15 +143,11 @@ public class PlayerController : MonoBehaviour
         }
 
         // Interaction with sowgie
-        if (
-            (collide.tag == "snowgie") && (candies < 10) //  show dialogue if candies < 10
-        )
+        if( (collide.tag == "snowgie") && (candies < 10) ) //  show dialogue if candies < 10
         {
             snowgie.Setup(true);
         }
-        else if (
-            (collide.tag == "snowgie") && (candies >= 10) // Congratulations Scene
-        )
+        else if ((collide.tag == "snowgie") && (candies >= 10) )// Congratulations Scene
         {
             SceneManager.LoadScene("level1");
         }
@@ -165,7 +162,8 @@ public class PlayerController : MonoBehaviour
             if (rb.velocity.y < 0)
             {
                 Destroy(player.gameObject);
-            } // players life reduced
+            } 
+            // players life reduced
             else
             {
                 lives -= 1;
@@ -174,9 +172,7 @@ public class PlayerController : MonoBehaviour
                 rb.gameObject.transform.position = respawnPoint.position;
             }
         }
-        if (
-            player.gameObject.tag == "Fire" // players life reduced
-        )
+        if (player.gameObject.tag == "Fire") // players life reduced
         {
             lives -= 1;
             lifeAmount.text = lives.ToString();
