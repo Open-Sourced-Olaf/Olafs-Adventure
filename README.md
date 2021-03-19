@@ -65,6 +65,16 @@ Talk to the Snowgie, who will take 10 candies in exchange for finishing the leve
 4. Hit the play button
 
 
+## Contributing
+
+Feel free to open up issues for any bugs you come across or a PR if you'd like to make some changes!
+
+
+## License
+
+[Apache 2.0](https://github.com/Open-Sourced-Olaf/Olafs-Adventure/blob/master/LICENSE)
+
+
 Made with ❤️ by [Deepak Agrawal](https://github.com/DebugAgrawal), [Bushra Akram](https://github.com/codingbug671), and [Samuel Yuan](https://github.com/YuanSamuel) for the MLH Explorer Batch 2 Sprint 1 in Spring 2021. 
 
 
