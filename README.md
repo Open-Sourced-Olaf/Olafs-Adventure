@@ -1,32 +1,19 @@
 # Olafs-Adventure
 
-Come along on this wonderful journey of Olaf towards finding his destiny. ⛄
+Olaf's Adventures is a 2D platformer game which our Olaf has lost in a frozen land and doesn't know his way back home. Along his journey, he encounters snowgie who demands him to bring him some candies in order to reach his destination. So in this adventurous journey, he comes across many yetis, fires from which he has to stay way. Also, he finds different candies some of them are sweet but some may be poisonous. So come along in this fun filled adventure of Olaf and help him reach his destination! ⛄
 
-![WIP](https://thumbs.gfycat.com/TintedFemaleFieldspaniel-max-1mb.gif) ![Olaf](https://media.tenor.com/images/b0cf79786a96df80f3983f593e177dba/tenor.gif)
-
-**Tasks**
-
-- [x] Plot
-- [x] Game Structure
-- [x] Raw Sketch
-  - [x] Level l
-  - [x] Level 2
-  - [x] Level 3
-- [ ] Level Design
-  - [x] Level l
-  - [ ] Level 2
-  - [ ] Level 3
-- [ ] Coding
-  - [ ] Level l
-  - [ ] Level 2
-  - [ ] Level 3
-- [ ] Integration
-- [ ] Sound
-- [ ] Deploy
+![Olaf](https://media.tenor.com/images/b0cf79786a96df80f3983f593e177dba/tenor.gif)
 
 ## About the Game
 
+
+This game was created with the Unity Engine, and our scripts were written in C#.
+
+
 #### Menu Screen
+
+
+Starting off, we're greeted by a menu screen to play the game.
 
 
 ![Menu](https://user-images.githubusercontent.com/37784817/111823117-8f9e3b00-88b2-11eb-8a6d-ff44da0c54a7.gif)
@@ -68,3 +55,16 @@ Talk to the Snowgie, who will take 10 candies in exchange for finishing the leve
 
 
 ![Snowgie](https://user-images.githubusercontent.com/37784817/111823527-0d624680-88b3-11eb-9f12-c3b71ac00858.gif)
+
+
+## Run Locally
+
+1. Clone our project (https://github.com/Open-Sourced-Olaf/Olafs-Adventure.git)
+2. Install the [Unity Engine](https://unity3d.com/get-unity/download)
+3. Open the project from Unity Hub
+4. Hit the play button
+
+
+Made with ❤️ by [Deepak Agrawal](https://github.com/DebugAgrawal), [Bushra Akram](https://github.com/codingbug671), and [Samuel Yuan](https://github.com/YuanSamuel) for the MLH Explorer Batch 2 Sprint 1 in Spring 2021. 
+
+
